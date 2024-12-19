@@ -27,13 +27,13 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 try{
 let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
-*⇆ ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ⇆*
+*MAFIA-MD-BOT*
 
      *${pushname}*
      
 ╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
-      *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ 𝙼𝙰𝙵𝙸𝙰 ᴍᴅ ғᴜʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ*
+      *MAFIA-MD-BOT*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 *ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝙰𝙳𝙴𝙴𝙻 ᴋɪɴɢ*
