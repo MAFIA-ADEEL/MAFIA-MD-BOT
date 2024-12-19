@@ -16,16 +16,32 @@
 ----------
 
 <p align="center">
-<a href="https://webpair-mega-1-7m6u.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<a href="https://www.youtube.com/@Mafiamdbot"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 ----------
+***
 
+## WHAT IS FIXED ✨ 
+`AUTOREAD_MESSAGE`
+`AUTO_REACTION`
+`ANTI_DELETE_MESSAGE`
+`PLAY CMD`
+`VIDEO CMD`
+`AND MANY MORE`
+✅ KEEP USING MAFIA-MD ✅
+
+#### SETUP PROCEDURE
+
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT/fork) It***
 ----------
 
-*SUBSCRIBE MY YOUTUBE CHANNEL*
+`SUBSCRIBE MY YOUTUBE CHANNEL`
 
-https://www.youtube.com/@Mafiamdbot
+
+<p align="center">
+<a href="https://www.youtube.com/@Mafiamdbot"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SUBSCRIBE MY YOUTUBE CHANNEL:-black?style=for-the-badge&logo=render"></a>
+<p/>
 
 ----------
  
