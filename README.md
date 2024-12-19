@@ -16,7 +16,7 @@
 ----------
 
 <p align="center">
-<a href="https://www.youtube.com/@Mafiamdbot"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<a href="https://www.youtube.com/@Mafiamdbot"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-white?style=for-the-badge&logo=youtube"></a>
 <p/>
 
 ----------
