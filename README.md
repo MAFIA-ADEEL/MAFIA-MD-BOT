@@ -1,10 +1,8 @@
-
-<h1 align="center">MAFIA-MD-BOT</h1>
-<p align="center">  
+### <br>    ❖ MAFIA-MD-BOT ❖
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +SCENE-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MAFIA+ADEEL+AWAN-ZADA;RELEASED+18.10.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +MAFIA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MAFIA+ADEEL+AWAN-ZADA;RELEASED+18.10.2024" alt="Typing SVG" /></a>
   </p>
     <img alt="MAFIA-MD" width="700" height="300" src="https://i.imghippo.com/files/RYX5040mys.jpg">
 <p align="center">
@@ -40,3 +38,15 @@ https://www.youtube.com/@Mafiamdbot
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER40/SILENT-SOBX-MD)
 
 ----------
+### 💠 [`𝘽𝙊𝙏 𝙊𝙒𝙉𝙀𝙍𝙎👻`]
+- 🪄 𝙼𝙰𝙵𝙸𝙰-𝙼𝙳 𝙱𝚈
+- 🪄 𝙼𝙰𝙵𝙸𝙰-𝙰𝙳𝙴𝙴𝙻💯
+- 🪄 👑👑👑👑👑👑
+- 🪄𝙰𝚆𝙰𝙽-𝚉𝙰𝙳𝙰 𝙺𝙸𝙽𝙶👿
+- 🪄👑👑👑👑👑👑👑
+- 🪄 𝚃𝙷𝙰𝙽𝙺𝚂 𝙱𝙾𝚈𝚂 𝚄𝚂𝙴 𝙼𝚈 𝙱𝙾𝚃
+
+<div align="left">
+    <a><img src='https://qu.ax/SLsqC.jpg.gif'/></a>
+    <a><img src='https://qu.ax/SLsqC.jpg.gif'/></a>
+</div>
