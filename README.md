@@ -1,6 +1,14 @@
-# MAFIA-MD-BOT
 
+<h1 align="center">MAFIA-MD-BOT</h1>
+<p align="center">  
 
+***
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +SCENE-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MAFIA+ADEEL+AWAN-ZADA;RELEASED+18.10.2024" alt="Typing SVG" /></a>
+  </p>
+    <img alt="MAFIA-MD" width="700" height="300" src="https://i.imghippo.com/files/RYX5040mys.jpg">
+<p align="center">
+<p align="center">
 
 ### <br>    ❖ SESSION_ID ❖
 
@@ -17,17 +25,9 @@
 
 ----------
 
-<p align="center">
-<a href="https://express-pairing-code2-1-hgi2.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
-<p/>
+*SUBSCRIBE MY YOUTUBE CHANNEL*
 
-----------
-
-----------
-
-<p align="center">
-<a href="https://web-pair-1dha.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-3:-black?style=for-the-badge&logo=render"></a>
-<p/>
+https://www.youtube.com/@Mafiamdbot
 
 ----------
  
