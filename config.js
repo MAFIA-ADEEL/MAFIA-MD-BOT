@@ -20,4 +20,6 @@ FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
 AUTO_REACT: process.env.AUTO_REACT || "true",
 OWNER_REACT: process.env.OWNER_REACT || "true",
 BOT_NAME: process.env.BOT_NAME || "𝙈𝘼𝙁𝙄𝘼-𝙈𝘿-𝘽𝙊𝙏",
+    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү MAFIA-MD`",
+    OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
